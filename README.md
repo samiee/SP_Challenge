@@ -23,6 +23,8 @@ https://becominghuman.ai/what-is-arima-and-sarima-model-10972b5e13c0]
 
 
 # Result :
+You Can reuse the notebook to see the result here :
+https://colab.research.google.com/drive/1wBFXYjamPBroS_KBBITg_p0yCXfjO9EL?usp=sharing
 
 I concluded that SARIMA Model with it's ability of differenceing show an. acceptable score with mse: 5911.2612 as shown in the notebook 
 
